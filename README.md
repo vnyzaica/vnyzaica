@@ -1,7 +1,4 @@
-### My name is Pavel
-#### I am python analyst
-![I am python analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+for freelance work? do reach, [email](mailto:shchp@vk.com) :)
 
 Skills: Python, PBI, SQL
 
